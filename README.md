@@ -2,7 +2,7 @@
 - 👀 I’m interested in accessibility.
 - 🌱 I’m currently learning as much as I can.
 - 💞️ I’m looking to collaborate on accessibility projects.
-- 📫 How to reach me: @vleguru on twitter
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mattdeeprose/)
 
 <!---
 matthewdeeprose/matthewdeeprose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
